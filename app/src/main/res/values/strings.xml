@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CleanIcon</string>
+    <string name="usage">CleanIcon 图标包
+
+图标素材来自「完美图标补全计划」的分层图标（已去除促销 / 活动角标），
+由 ColorOS 按系统自适应图标遮罩统一显示。
+
+应用方法
+1. 全局：设置 → 个性化定制 / 主题商店 → 图标，选择本图标包；
+2. 单个：长按桌面图标 → 编辑 → 点图标 → 在图标来源里切到本图标包。
+
+更换图标后若桌面未刷新，重启一次手机即可（无需清除桌面数据）。</string>
+</resources>

@@ -1,0 +1,498 @@
+{
+ "andes.oplus.documentsreader": [
+  "andes.oplus.documentsreader.launcher.activity.MainActivity",
+  "andes.oplus.documentsreader.launcher.activity.MainViewActivity"
+ ],
+ "app.morphe.android.youtube": [
+  "com.google.android.youtube.app.honeycomb.Shell$HomeActivity",
+  "app.morphe.android.youtube.morphe_play_3",
+  "app.morphe.android.youtube.morphe_play_1",
+  "app.morphe.android.youtube.morphe_dark_2",
+  "app.morphe.android.youtube.morphe_play_2",
+  "app.morphe.android.youtube.morphe_dark_1"
+ ],
+ "app.revanced.android.gms": [
+  "org.microg.gms.ui.MainSettingsActivity",
+  "org.microg.gms.ui.SettingsActivityLauncher",
+  "org.microg.gms.ui.SettingsActivity"
+ ],
+ "bin.mt.plus": [
+  "bin.mt.plus.Main",
+  "bin.mt.plus.MainNoBgIcon",
+  "bin.mt.plus.MainDarkIcon",
+  "bin.mt.plus.MainLightIcon"
+ ],
+ "cn.amazon.mShop.android": [
+  "com.amazon.mshop.page.activity.LauncherActivity"
+ ],
+ "cn.com.langeasy.LangEasyLexis": [
+  "cn.com.langeasy.LangEasyLexis.activity.SplashActivity"
+ ],
+ "cn.damai": [
+  "cn.damai.launcher.splash.SplashMainActivity"
+ ],
+ "cn.gov.pbc.dcep": [
+  "cn.gov.pbc.dcep.DcepLauncherActivity",
+  "com.alipay.mobile.quinox.LauncherActivity"
+ ],
+ "cn.wps.moffice_eng": [
+  "cn.wps.moffice.main.local.HomeRootActivity",
+  "com.min.n.MainActivity",
+  "cn.wps.shell.MainActivity",
+  "cn.wps.moffice.documentmanager.ab.proxy.main",
+  "cn.wps.moffice.Smart",
+  "cn.wps.moffice.documentmanager.ab.proxy.b"
+ ],
+ "com.MobileTicket": [
+  "com.alipay.mobile.quinox.LauncherActivity",
+  "com.MobileTicket.ui.activity.WelcomeGuideActivity"
+ ],
+ "com.absinthe.libchecker": [
+  "com.absinthe.libchecker.features.home.ui.MainActivity",
+  "com.absinthe.libchecker.ui.main.MainActivity"
+ ],
+ "com.alibaba.android.rimet": [
+  "com.alibaba.android.rimet.biz.SplashActivity",
+  "com.alibaba.android.rimet.biz.LaunchHomeActivity"
+ ],
+ "com.alibaba.wireless": [
+  "com.alibaba.wireless.welcome.Welcome",
+  "com.alibaba.wireless.v5.LauncherActivity",
+  "com.alibaba.wireless.launch.LauncherActivity"
+ ],
+ "com.alicloud.databox": [
+  "com.alicloud.databox.launcher.splash.SplashActivity",
+  "com.alicloud.databox.launcher.splash.SplashIconPixelActivity"
+ ],
+ "com.apple.android.music": [
+  "com.piyush.music.activities.main.MainActivity",
+  "com.apple.android.music.onboarding.activities.SplashActivity",
+  "com.google.android.apps.youtube.music.activities.MusicActivity",
+  "com.google.android.archive.ReactivateActivity"
+ ],
+ "com.appshub.bettbox": [
+  "com.appshub.bettbox.MainActivity",
+  "com.appshub.bettbox.MainActivityDark"
+ ],
+ "com.arashivision.insta360akiko": [
+  "com.arashivision.insta360akiko.app.SplashActivity"
+ ],
+ "com.autonavi.minimap": [
+  "com.autonavi.map.activity.SplashActivity"
+ ],
+ "com.azure.authenticator": [
+  "com.azure.authenticator.ui.MainActivity",
+  "com.azure.authenticator.ui.LaunchActivity"
+ ],
+ "com.baidu.netdisk": [
+  "com.baidu.netdisk.ui.OPLauncherActivity",
+  "com.baidu.netdisk.ui.DefaultMainActivity",
+  "com.baidu.netdisk.ui.SvipLauncherActivity",
+  "com.baidu.netdisk.ui.Navigate"
+ ],
+ "com.binance.dev": [
+  "com.eaas.launcher.activities.main.MainActivity",
+  "com.binance.launcher.activities.main.MainActivity",
+  "com.binance.launcher.activities.main.BnbMainActivity",
+  "com.binance.dev.SplashActivity",
+  "com.binance.dev.activities.main.MainActivity",
+  "com.binance.dev.activities.splash.SplashActivity"
+ ],
+ "com.cainiao.wireless": [
+  "com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
+ ],
+ "com.capyreader.app": [
+  "com.capyreader.app.MainActivity"
+ ],
+ "com.chinamworld.main": [
+  "com.ccb.start.MainActivity"
+ ],
+ "com.clover.daysmatter": [
+  "com.clover.daysmatter.ui.activity.MainActivity"
+ ],
+ "com.coloros.alarmclock": [
+  "com.oplus.alarmclock.AlarmClock",
+  "com.coloros.alarmclock.AlarmClock"
+ ],
+ "com.coloros.calculator": [
+  "com.android.calculator2.Calculator"
+ ],
+ "com.coloros.calendar": [
+  "com.android.calendar.AllInOneActivity"
+ ],
+ "com.coloros.compass2": [
+  "com.coloros.compass.flat.FlatCompass"
+ ],
+ "com.coloros.filemanager": [
+  "com.oplus.filemanager.main.ui.SplashActivity",
+  "com.coloros.filemanager.Main",
+  "com.coloros.filemanager.ad.SplashActivity",
+  "com.oplus.filemanager.main.ui.MainActivity",
+  "com.coloros.filemanager.filerefactor.ui.main.MainActivity"
+ ],
+ "com.coloros.note": [
+  "com.nearme.note.main.MainActivity",
+  "com.nearme.note.view.AllNoteActivity"
+ ],
+ "com.coloros.soundrecorder": [
+  "com.soundrecorder.browsefile.BrowseFile",
+  "oppo.multimedia.soundrecorder.RecorderActivity",
+  "oppo.multimedia.soundrecorder.filebrowser.BrowseFile",
+  "oplus.multimedia.soundrecorder.filebrowser.BrowseFile"
+ ],
+ "com.coloros.translate": [
+  "com.coloros.translate.ui.MainActivity",
+  "com.coloros.translate.ui.main.NewMainActivity"
+ ],
+ "com.coloros.weather2": [
+  "com.coloros.weather.OppoMainActivity",
+  "com.oplus.weather.main.view.WeatherMainActivity",
+  "com.coloros.weather.main.view.WeatherMainActivity"
+ ],
+ "com.coolapk.market": [
+  "com.coolapk.market.SplashActivity",
+  "com.coolapk.market.activity.MainActivity",
+  "com.coolapk.market.view.main.MainActivity"
+ ],
+ "com.ct.client": [
+  "com.ct.client.SplashActivity",
+  "com.ct.client.activity.SplashActivity"
+ ],
+ "com.dianping.v1": [
+  "com.dianping.v1.NovaMainActivity"
+ ],
+ "com.discord": [
+  "com.discord.MainActivity",
+  "com.discord.main.MainY2K",
+  "com.discord.main.MainCamo",
+  "com.discord.main.MainDrip",
+  "com.discord.main.MainBlush",
+  "com.discord.main.MainManga"
+ ],
+ "com.douban.frodo": [
+  "com.douban.frodo.activity.SplashActivity"
+ ],
+ "com.eg.android.AlipayGphone": [
+  "com.alipay.android.client.WelcomeUse",
+  "com.eg.android.AlipayGphone.AlipayLogin"
+ ],
+ "com.eusoft.eudic": [
+  "com.eusoft.dict.activity.SplashActivity"
+ ],
+ "com.eusoft.frhelper": [
+  "com.eusoft.dict.activity.SplashActivity"
+ ],
+ "com.finshell.wallet": [
+  "com.nearme.wallet.SplashActivity"
+ ],
+ "com.giffgaffmobile.controller": [
+  "com.giffgaff.reapps.SplashActivity",
+  "com.giffgaffmobile.controller.MainActivity",
+  "com.giffgaffmobile.controller.SplashActivity"
+ ],
+ "com.gmail.heagoo.apkeditor.pro": [
+  "com.rull.mod.SplashActivity",
+  "com.gmail.heagoo.apkeditor.MainActivity",
+  "com.gmail.heagoo.apkeditor.MainActivity-New7",
+  "com.gmail.heagoo.apkeditor.MainActivity-New1"
+ ],
+ "com.google.android.apps.authenticator2": [
+  "com.google.android.apps.authenticator2.main.MainActivity",
+  "com.google.android.apps.authenticator.AuthenticatorActivity",
+  "com.google.android.archive.ReactivateActivity"
+ ],
+ "com.google.android.apps.docs": [
+  "com.google.android.apps.docs.app.MainProxyActivity",
+  "com.google.android.apps.docs.app.HomeScreenActivity",
+  "com.google.android.apps.docs.app.NewMainProxyActivity",
+  "com.google.android.archive.ReactivateActivity"
+ ],
+ "com.google.android.apps.photos": [
+  "com.google.android.apps.photos.home.HomeActivity",
+  "com.google.android.archive.ReactivateActivity"
+ ],
+ "com.heytap.health": [
+  "com.heytap.health.oobe.LaunchActivity",
+  "com.heytap.health.launch.LaunchActivity"
+ ],
+ "com.heytap.themestore": [
+  "com.nearme.themespace.activities.ThemeActivity"
+ ],
+ "com.icbc": [
+  "com.icbc.activity.init.LoadingActivity",
+  "com.icbc.activity.init.NewLoadingActivity"
+ ],
+ "com.imdb.mobile": [
+  "com.imdb.mobile.Home",
+  "com.imdb.mobile.HomeActivity",
+  "com.imdb.mobile.IMDb"
+ ],
+ "com.instagram.android": [
+  "com.instagram.mainactivity.LauncherActivity",
+  "com.instagram.android.InternalLauncher",
+  "com.instagram.android.activity.MainTabActivity",
+  "com.instagram.android.activity.MainTabActivity1",
+  "com.instagram.android.activity.MainTabActivity3",
+  "com.instagram.android.activity.MainTabActivity2"
+ ],
+ "com.jd.jrapp": [
+  "com.jd.jrapp.bm.mainbox.main.MainActivity"
+ ],
+ "com.jingdong.app.mall": [
+  "com.jingdong.app.mall.main.MainActivity",
+  "com.jingdong.app.mall.MainFrameActivity"
+ ],
+ "com.kmplayer": [
+  "com.kmplayer.MainActivity",
+  "com.kmplayer.SplashActivity",
+  "com.kmplayer.activity.SplashActivity",
+  "com.kmplayer.activity.IntroActivity",
+  "com.kmplayer.activity.googleAdVerIntro"
+ ],
+ "com.lianjia.beike": [
+  "com.lianjia.activity.MainActivity"
+ ],
+ "com.max.xiaoheihe": [
+  "com.max.xiaoheihe.SplashActivity"
+ ],
+ "com.microsoft.emmx": [
+  "com.microsoft.ruby.Main",
+  "com.microsoft.ruby.Main2",
+  "com.microsoft.ruby.Main5",
+  "com.microsoft.ruby.Main6",
+  "com.microsoft.ruby.Main3",
+  "com.microsoft.ruby.Main7"
+ ],
+ "com.microsoft.office.outlook": [
+  "com.microsoft.office.outlook.MainActivity",
+  "com.microsoft.office.outlook.MainActivityEdu",
+  "com.microsoft.office.outlook.MainCalendarActivity",
+  "com.microsoft.office.outlook.ui.miit.MiitLauncherActivity",
+  "com.microsoft.office.outlook.WearActivity",
+  "com.microsoft.office.outlook.activities.HubActivity"
+ ],
+ "com.microsoft.skydrive": [
+  "com.microsoft.skydrive.MainActivity",
+  "com.microsoft.skydrive.photos.PhotosLauncherActivity"
+ ],
+ "com.microsoft.xboxone.smartglass": [
+  "com.microsoft.xbox.MainActivity",
+  "com.microsoft.xbox.LauncherActivity",
+  "com.microsoft.xbox.xle.app.MainActivity",
+  "com.microsoft.xbox.xle.app.XLEActivity"
+ ],
+ "com.netease.cloudmusic": [
+  "com.grif.vmp.ui.activity.main.MainActivity",
+  "com.netease.cloudmusic.activity.MainActivity",
+  "com.startad.StartActivity",
+  "com.netease.cloudmusic.activity.LoadingActivity",
+  "com.squareup.leakcanary.internal.DisplayLeakActivity",
+  "com.netease.cloudmusic.activity.IconChangeAliasId166"
+ ],
+ "com.niksoftware.snapseed": [
+  "com.niksoftware.snapseed.MainActivity",
+  "com.google.android.apps.snapseed.MainActivity",
+  "com.releasedata.ReleaseDataActivity.SplashActivityKing",
+  "com.google.android.apps.snapseed.WelcomeScreenActivity"
+ ],
+ "com.oculus.twilight": [
+  "com.oculus.twilight.crossapp.activity.XOCMainActivity",
+  "com.oculus.twilight.crossapp.activity.XOCLoginActivity"
+ ],
+ "com.oplus.consumerIRApp": [
+  "com.oplus.consumerIRApp.navigation.HomeActivity",
+  "com.oplus.consumerIRApp.navigation.LauncherActivity"
+ ],
+ "com.oplus.member": [
+  "com.oppo.usercenter.vip.UCVIPMainActivity",
+  "com.myoppo.member.dynamic.icon.FindX9Ultra.LauncherActivity",
+  "com.myoppo.member.dynamic.icon.findX9series.LauncherActivity",
+  "com.myoppo.member.dynamic.icon.reno15Series.LauncherActivity",
+  "com.myoppo.member.dynamic.icon.reno16SeriesTW.LauncherActivity"
+ ],
+ "com.pavelrekun.tilla": [
+  "com.pavelrekun.tilla.base.BaseActivity",
+  "com.pavelrekun.tilla.navigation.NavigationActivity"
+ ],
+ "com.paypal.android.p2pmobile": [
+  "com.paypal.oslo.app.MainActivity",
+  "com.paypal.android.p2pmobile.activity.GridLauncherActivity",
+  "com.paypal.android.p2pmobile.p2p",
+  "com.paypal.android.p2pmobile.activity.HubActivity",
+  "com.paypal.android.p2pmobile.activity.IntroActivity",
+  "com.paypal.android.p2pmobile.startup.activities.StartupActivity"
+ ],
+ "com.perol.play.pixez": [
+  "com.perol.pixez.MainActivity"
+ ],
+ "com.sankuai.meituan": [
+  "com.meituan.android.pt.homepage.activity.Welcome",
+  "com.meituan.android.pt.homepage.activity.MainActivity",
+  "com.sankuai.meituan.MPMainActivity",
+  "com.sankuai.meituan.activity.Welcome",
+  "com.sankuai.meituan.activity.FlashWelcome",
+  "com.sankuai.meituan.activity.PreloadedWelcome"
+ ],
+ "com.scee.psxandroid": [
+  "com.digitaljigsaw.psxandroid.activities.SplashActivity",
+  "com.scee.psxandroid.activity.TopActivity",
+  "com.scee.psxandroid.activity.EulaActivity"
+ ],
+ "com.sdu.didi.psnger": [
+  "com.didi.sdk.splash.SplashActivity",
+  "com.didi.sdk.app.launch.splash.SplashActivity",
+  "com.didi.sdk.app.DidiLoadDexActivity",
+  "com.didi.sdk.app.launch.DidiLoadDexActivity"
+ ],
+ "com.server.auditor.ssh.client": [
+  "com.server.auditor.ssh.client.navigation.MainActivity",
+  "com.server.auditor.ssh.client.navigation.SplashScreenActivity",
+  "com.server.auditor.ssh.client.navigation.SshNavigationDrawerActivity",
+  "com.google.android.archive.ReactivateActivity"
+ ],
+ "com.shizhuang.duapp": [
+  "com.shizhuang.duapp.modules.home.ui.SplashActivity"
+ ],
+ "com.sina.weibo": [
+  "com.sina.weibo.SplashActivity",
+  "com.sina.weibo.wb_sinas",
+  "com.sina.weibo.wb_pixelweibo",
+  "com.sina.weibo.wb_clear_start",
+  "com.sina.weibo.wb_nuannuandongri",
+  "com.sina.weibo.wb_fantasy_starry_sky"
+ ],
+ "com.sinovatech.unicom.ui": [
+  "com.sinovatech.unicom.basic.ui.activity.WelcomeClient"
+ ],
+ "com.smzdm.client.android": [
+  "com.smzdm.client.android.app.WelComeActivity"
+ ],
+ "com.ss.android.auto": [
+  "com.ss.android.auto.policy.AutoPrivacyActivity"
+ ],
+ "com.ss.android.ugc.aweme": [
+  "com.ss.android.ugc.aweme.splash.SplashActivity",
+  "com.android.camera.CameraLauncher"
+ ],
+ "com.taobao.idlefish": [
+  "com.taobao.fleamarket.home.activity.InitActivity",
+  "com.taobao.fleamarket.home.activity.AppIcon_Skin_Fur",
+  "com.taobao.fleamarket.home.activity.AppIcon_Skin_Pink",
+  "com.taobao.fleamarket.home.activity.AppIcon_Fisher_VIP",
+  "com.taobao.fleamarket.home.activity.AppIcon_Skin_BeRich",
+  "com.taobao.fleamarket.home.activity.AppIcon_Skin_Cosmic"
+ ],
+ "com.taobao.taobao": [
+  "com.androlua.Welcome",
+  "com.taobao.tao.Welcome",
+  "com.taobao.tao.welcome.Welcome"
+ ],
+ "com.tencent.mm": [
+  "com.tencent.mm.ui.LauncherUI",
+  "com.tencent.mm.WeChatActivity",
+  "com.google.android.archive.ReactivateActivity"
+ ],
+ "com.tencent.mobileqq": [
+  "com.tencent.mobileqq.activity.SplashActivity",
+  "com.tencent.mobileqq.activity.Alias2SplashActivity",
+  "com.tencent.mobileqq.activity.Alias24SplashActivity"
+ ],
+ "com.twitter.android": [
+  "com.example.nm.TwitterLauncherMainActivity",
+  "com.x.android.main.MainActivity",
+  "com.twitter.android.MainActivity",
+  "com.twitter.android.stub.MainActivity",
+  "com.yrwl.admanager.bytedance.SplashActivity",
+  "com.x.appicon.icon10"
+ ],
+ "com.umetrip.android.msky.app": [
+  "com.umetrip.android.msky.app.module.startup.SplashActivity"
+ ],
+ "com.unionpay": [
+  "com.unionpay.activity.UPActivityMain"
+ ],
+ "com.valvesoftware.android.steam.community": [
+  "android.support.main.a",
+  "com.valvesoftware.android.steam.community.MainActivity",
+  "com.valvesoftware.android.steam.community.activity.MainActivity",
+  "com.valvesoftware.android.steam.community.activity.CommunityActivity",
+  "com.valvesoftware.android.steam.community.activity.SteamGuardActivity"
+ ],
+ "com.wuba.zhuanzhuan": [
+  "com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity"
+ ],
+ "com.x8bit.bitwarden": [
+  "com.x8bit.bitwarden.MainActivity",
+  "md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity",
+  "md5fb78b69c5ddbc157f4db38fd738139a6.SplashActivity"
+ ],
+ "com.xiaomi.smarthome": [
+  "com.xiaomi.smarthome.SmartHomeMainActivity",
+  "com.xiaomi.smarthome.VevsIcon",
+  "com.xiaomi.smarthome.StartupActivity",
+  "com.google.android.archive.ReactivateActivity"
+ ],
+ "com.xingin.xhs": [
+  "com.xingin.xhs.activity.SplashActivity",
+  "com.xingin.xhs.index.v2.IndexActivityV2"
+ ],
+ "com.xunlei.downloadprovider": [
+  "com.xunlei.downloadprovider.launchSVip",
+  "com.xunlei.downloadprovider.launchDefault",
+  "com.xunlei.downloadprovider.launch.LaunchActivity"
+ ],
+ "com.xunmeng.pinduoduo": [
+  "com.xunmeng.pinduoduo.ui.activity.MainFrameActivity"
+ ],
+ "com.yek.android.kfc.activitys": [
+  "com.yum.brandkfc.SplashAct"
+ ],
+ "com.yitong.mbank.psbc": [
+  "com.yitong.mbank.psbc.module.app.view.activity.LauncherActivity"
+ ],
+ "com.zzw.october": [
+  "com.zzw.october.LaunchActivity"
+ ],
+ "ctrip.android.view": [
+  "ctrip.business.splash.CtripSplashActivity"
+ ],
+ "li.songe.gkd": [
+  "li.songe.gkd.MainActivity"
+ ],
+ "md.obsidian": [
+  "md.obsidian.MainActivity"
+ ],
+ "me.ele": [
+  "me.ele.Launcher"
+ ],
+ "org.kde.kdeconnect_tp": [
+  "org.kde.kdeconnect.ui.MainActivity",
+  "org.kde.kdeconnect.UserInterface.MainActivity",
+  "org.kde.kdeconnect.UserInterface.MaterialActivity"
+ ],
+ "org.mozilla.firefox": [
+  "org.mozilla.firefox.App",
+  "org.mozilla.firefox.AppMomo",
+  "org.mozilla.firefox.AppCool",
+  "org.mozilla.firefox.AppPride",
+  "org.mozilla.firefox.AppMinimal",
+  "org.mozilla.firefox.AppFlaming"
+ ],
+ "org.telegram.messenger": [
+  "com.min.n.MainActivity",
+  "org.telegram.messenger.NoxIcon",
+  "org.telegram.ui.LaunchActivity",
+  "org.telegram.messenger.DarkIcon",
+  "org.telegram.messenger.NeonIcon",
+  "org.telegram.messenger.AquaIcon"
+ ],
+ "tv.danmaku.bili": [
+  "tv.danmaku.bili.MainActivity",
+  "tv.danmaku.bili.MainActivityV2",
+  "tv.danmaku.bili.ui.splash.SplashActivity"
+ ],
+ "tv.trakt.trakt": [
+  "tv.trakt.trakt.MainActivity",
+  "tv.trakt.trakt.ui.main.MainActivity"
+ ]
+}

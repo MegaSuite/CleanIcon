@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CleanIcon">
+
+        <!--
+          Activity 上挂载的 intent-filter 就是「图标包能被桌面发现」的唯一凭据。
+          不同桌面用不同的 action，挂多不挂少（最多在列表里多出现一条）。
+        -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!-- Motorola -->
+            <intent-filter>
+                <action android:name="com.motorola.launcher.ACTION_ICON_PACK" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- ADW -->
+            <intent-filter>
+                <action android:name="org.adw.launcher.THEMES" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- Apex -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.anddoes.launcher.THEME" />
+            </intent-filter>
+
+            <!-- Atom -->
+            <intent-filter>
+                <action android:name="com.dlto.atom.launcher.THEME" />
+            </intent-filter>
+
+            <!-- GO -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.gau.go.launcherex.theme" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- LauncherPro / Holo -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.fede.launcher.THEME_ICONPACK" />
+            </intent-filter>
+
+            <!-- Next -->
+            <intent-filter>
+                <action android:name="com.gtp.nextlauncher.theme" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- Grid / Turbo / Smart / TSF / Solo / aHome -->
+            <intent-filter>
+                <action android:name="com.gridappsinc.launcher.theme.apk_action" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.phonemetra.turbo.launcher.THEMES" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="ginlemon.smartlauncher.THEMES" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.tsf.shell.themes" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="mobi.bbase.ahome.THEME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- Nova -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.teslacoilsw.launcher.THEME" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.novalauncher.THEME" />
+                <category android:name="com.novalauncher.category.CUSTOM_ICON_PICKER" />
+            </intent-filter>
+
+            <!-- Lawnchair -->
+            <intent-filter>
+                <action android:name="ch.deletescape.lawnchair.ICONPACK" />
+                <category android:name="ch.deletescape.lawnchair.PICK_ICON" />
+            </intent-filter>
+
+            <!-- LG -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.lge.launcher2.THEME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- OnePlus / OPPO / realme (ColorOS) -->
+            <intent-filter>
+                <action android:name="net.oneplus.launcher.icons.ACTION_PICK_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- Sony -->
+            <intent-filter>
+                <action android:name="com.sonymobile.home.ICON_PACK" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

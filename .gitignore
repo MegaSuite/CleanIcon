@@ -1,1 +1,14 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 本地素材 / 中间产物（不入库）
 ref/
+tools/__pycache__/
